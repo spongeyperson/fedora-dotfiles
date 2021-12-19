@@ -1,12 +1,17 @@
 # <p align=center>- Spongey's Fedora Linux KDE Dotfiles -
 ###### <p align=center> A Simple Git Repository to store various Fedora Linux User Configs (Dotfiles).
 
+> This repository was cloned from [spongeyperson/arch-dotfiles](https://github.com/spongeyperson/arch-dotfiles/). Please expect not much variance from that repo as these repos commit similar changes.
 
-#### <p align=center> Links:
-<!--
-  - Host Config: [spongeyperson/fedora-dotfiles](https://github.com/spongeyperson/proxmox-config/)
--->
-  - Unused Files Directory: [__[fedora-dotfiles]:__ /home/tyler/fedora-dotfiles/unused](https://github.com/spongeyperson/fedora-dotfiles/tree/master/home/tyler/fedora-dotfiles/unused)
+#### <p align=center> Index:
+  - **This Repo**:
+    - Documentation:
+      - [Custom KDE Panels](https://github.com/spongeyperson/fedora-dotfiles/tree/master/home/tyler/.local/share/plasma/layout-templates)
+      - [Xorg Configuration](https://github.com/spongeyperson/fedora-dotfiles/tree/master/etc/X11/xorg.conf.d)
+      - [Unused Directory](https://github.com/spongeyperson/fedora-dotfiles/tree/master/home/tyler/fedora-dotfiles/unused)
+  - Other Dotfiles:
+    - **Proxmox**: [spongeyperson/proxmox-config](https://github.com/spongeyperson/proxmox-config/)
+    - **Arch**: [spongeyperson/arch-dotfiles](https://github.com/spongeyperson/arch-dotfiles/)
 
 <p align=center><img src="https://user-images.githubusercontent.com/28176188/146661813-478ea8c2-f745-47b4-a50f-2fbb7c661b1c.png"> 
 
