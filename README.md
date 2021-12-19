@@ -1,12 +1,14 @@
-# <p align=center>- Spongey's Arch Linux KDE Dotfiles -
-###### <p align=center> A Simple Git Repository to store various Arch Linux User Configs (Dotfiles).
+# <p align=center>- Spongey's Fedora Linux KDE Dotfiles -
+###### <p align=center> A Simple Git Repository to store various Fedora Linux User Configs (Dotfiles).
 
 
 #### <p align=center> Links:
-  - Host Config: [spongeyperson/proxmox-config](https://github.com/spongeyperson/proxmox-config/)
-  - Unused Files Directory: [proxmox-config/home/tyler/arch-dotfiles/unused](https://github.com/spongeyperson/arch-dotfiles/tree/master/home/tyler/arch-dotfiles/unused)
+<!--
+  - Host Config: [spongeyperson/fedora-dotfiles](https://github.com/spongeyperson/proxmox-config/)
+-->
+  - Unused Files Directory: [__[fedora-dotfiles]:__ /home/tyler/fedora-dotfiles/unused](https://github.com/spongeyperson/fedora-dotfiles/tree/master/home/tyler/fedora-dotfiles/unused)
 
-![I run Arch BTW](https://user-images.githubusercontent.com/28176188/140734509-d661b98b-b5bd-4ffc-9f59-69d9bed8f1c9.png)
+<p align=center><img src="https://user-images.githubusercontent.com/28176188/146661813-478ea8c2-f745-47b4-a50f-2fbb7c661b1c.png"> 
 
 # Gaming Tweaks:
 
@@ -36,4 +38,4 @@ VK_ICD_FILENAMES=/usr/share/vulkan/icd.d/amd_icd64.json suspend_compositing game
 - Work In Progress
 
 [^Note]: Unused Directory 
-[^1]: "[mangohud](https://github.com/spongeyperson/arch-config/blob/master/home/tyler/.config/MangoHud/MangoHud.conf)" and "[suspend_compositing](https://github.com/spongeyperson/arch-config/blob/master/usr/local/bin/suspend_compositing)" commands refer to the following config files required to make them work.
+[^1]: "[mangohud](https://github.com/spongeyperson/fedora-dotfiles/blob/master/home/tyler/.config/MangoHud/MangoHud.conf)" and "[suspend_compositing](https://github.com/spongeyperson/fedora-dotfiles/blob/master/usr/local/bin/suspend_compositing)" commands refer to the following config files required to make them work.
