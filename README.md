@@ -1,4 +1,7 @@
-# <p align=center>- Spongey's Fedora Linux KDE Dotfiles -
+> <p align=center> ⚠️ <u><b>This Repository is Currently Unmaintained</u></b> ⚠️ </p>
+> <p align=center> This repository is Archived as i am not currently running Fedora Linux on my host system, and this repository has not been updated in quite awhile. Please Refer to <a href="https://github.com/spongeyperson/spongeyperson/blob/main/README.md">spongeyperson/README.md</a> for up to date repositories and more information. <i><b>Use this Repo at your own risk</b></i></p>
+
+## <p align=center>- Spongey's Fedora Linux KDE Dotfiles -
 ###### <p align=center> A Simple Git Repository to store various Fedora Linux User Configs (Dotfiles).
 
 > This repository was cloned from [spongeyperson/arch-dotfiles](https://github.com/spongeyperson/arch-dotfiles/). Please expect not much variance from that repo as these repos commit similar changes.
